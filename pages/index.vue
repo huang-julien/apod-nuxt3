@@ -56,8 +56,8 @@ useHead({
   },
   meta: [
     {
-      // @ts-ignore
-      description: 'APOD website using NASA Open api, built with nuxt 3'
+      name: 'description',
+      content: 'APOD website using NASA Open api, built with nuxt 3'
     }
   ]
 })
